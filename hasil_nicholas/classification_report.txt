@@ -1,0 +1,22 @@
+HASIL KLASIFIKASI DECISION TREE
+==================================================
+Nama      : Nicholas Nusi Pelmelay
+NIM       : 4212311028
+Parameter : 345, 346, 347
+Target    : Activity
+==================================================
+
+Akurasi: 57.65%
+
+                    precision    recall  f1-score   support
+
+            LAYING       0.58      0.45      0.51       282
+           SITTING       0.42      0.51      0.46       257
+          STANDING       0.49      0.50      0.49       275
+           WALKING       0.63      0.70      0.66       245
+WALKING_DOWNSTAIRS       0.75      0.77      0.76       197
+  WALKING_UPSTAIRS       0.70      0.60      0.64       215
+
+          accuracy                           0.58      1471
+         macro avg       0.60      0.59      0.59      1471
+      weighted avg       0.58      0.58      0.58      1471
